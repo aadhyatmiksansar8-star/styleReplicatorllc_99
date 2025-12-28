@@ -1,0 +1,7 @@
+{
+  "name": "Copy of StyleReplicator AI",
+  "description": "Upload a reference photo to analyze its style, outfit, and pose, then apply it to your own photos using Gemini's advanced image-to-image capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
